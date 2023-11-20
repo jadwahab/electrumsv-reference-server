@@ -6,3 +6,4 @@
 *.sqlite
 *.coverage*
 localdata
+myenv
